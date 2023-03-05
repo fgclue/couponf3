@@ -1,0 +1,9 @@
+@font-face{font-family:han;src:url("/indie.ttf");}
+body {
+    margin: 0;
+    background: #ece4d8;
+    font-family: han, sans-serif;
+}
+#main {
+    text-align: center;
+}

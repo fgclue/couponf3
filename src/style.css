@@ -1,0 +1,13 @@
+@font-face{font-family:han;src:url("/indie.ttf");}
+body {
+    font-family: han, sans-serif;
+    background-color: #ece4d8;
+    text-align: center;
+}
+button {
+    border: 0px;
+    background-color: #999388;
+    border-radius: 50px;
+    color: white;
+    font-family: han;
+}
